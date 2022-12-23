@@ -1,0 +1,84 @@
+2022-11-23 09:44:28,308 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 09:44:28,325 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 09:44:28,325 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;44;65; 
+
+2022-11-23 09:44:28,325 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 09:44:28,448 [1] INFO  [temp_robot_datarecord.Form1.initplc@87] PLC连接成功！ 
+
+2022-11-23 09:48:30,219 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:48:59,787 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:49:47,348 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:50:30,837 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 09:50:30,853 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 09:50:30,853 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 09:50:30,853 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 09:50:30,975 [1] INFO  [temp_robot_datarecord.Form1.initplc@87] PLC连接成功！ 
+
+2022-11-23 09:51:24,290 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:51:40,055 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:52:04,218 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:52:31,250 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@126] 数据改变一次！ 
+
+2022-11-23 09:52:44,451 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@157] 记录一次数据！ 
+
+2022-11-23 10:20:15,700 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 10:20:15,716 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 10:20:15,716 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 10:20:15,716 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 10:22:24,386 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 10:22:24,402 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 10:22:24,402 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 10:22:24,402 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 13:24:45,102 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 13:24:45,119 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 13:24:45,119 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 13:24:45,119 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 13:25:06,858 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 13:25:06,874 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 13:25:06,874 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 13:25:06,874 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 13:25:26,672 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 13:25:26,690 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 13:25:26,691 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 13:25:26,691 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+
+2022-11-23 13:25:56,984 [1] INFO  [temp_robot_datarecord.Form1..ctor@71] 软件启动时间！ 
+
+2022-11-23 13:25:57,000 [1] INFO  [temp_robot_datarecord.Form1..ctor@72] 步骤总长：5 
+
+2022-11-23 13:25:57,000 [1] INFO  [temp_robot_datarecord.Form1..ctor@73] 步骤序号：30;40;49;65; 
+
+2022-11-23 13:25:57,000 [1] INFO  [temp_robot_datarecord.Form1..ctor@74] DB块号：35 
+

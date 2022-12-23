@@ -1,0 +1,12 @@
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\log4App.config
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\temp_robot_datarecord.exe.config
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\temp_robot_datarecord.exe
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\bin\Debug\temp_robot_datarecord.pdb
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\temp_robot_datarecord.Form1.resources
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\temp_robot_datarecord.History_data.resources
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\temp_robot_datarecord.Properties.Resources.resources
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\Vision_Utilsplus_test.csproj.GenerateResource.cache
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\Vision_Utilsplus_test.csproj.CoreCompileInputs.cache
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\Vision_Utilsplus_test.csproj.CopyComplete
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\temp_robot_datarecord.exe
+E:\github\Vision_project\Vision_Utils_pro\Vision_Utlis_test\obj\Debug\temp_robot_datarecord.pdb
