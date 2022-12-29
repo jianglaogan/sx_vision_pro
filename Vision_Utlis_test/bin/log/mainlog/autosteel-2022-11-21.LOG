@@ -1,0 +1,62 @@
+2022-11-21 10:08:59,581 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 10:09:01,263 [1] INFO  [temp_robot_datarecord.Form1.button1_Click@178] 测试记录一次！ 
+
+2022-11-21 10:09:02,047 [1] INFO  [temp_robot_datarecord.Form1.button1_Click@178] 测试记录一次！ 
+
+2022-11-21 10:09:02,709 [1] INFO  [temp_robot_datarecord.Form1.button1_Click@178] 测试记录一次！ 
+
+2022-11-21 10:09:03,291 [1] INFO  [temp_robot_datarecord.Form1.button1_Click@178] 测试记录一次！ 
+
+2022-11-21 10:09:03,798 [1] INFO  [temp_robot_datarecord.Form1.button1_Click@178] 测试记录一次！ 
+
+2022-11-21 10:10:19,598 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:00:31,938 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:08:39,008 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:12:11,854 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:27:10,777 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:27:11,147 [1] INFO  [temp_robot_datarecord.Form1.initplc@71] PLC连接成功！ 
+
+2022-11-21 15:27:42,183 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@108] 数据改变一次！ 
+
+2022-11-21 15:27:59,677 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@108] 数据改变一次！ 
+
+2022-11-21 15:28:24,209 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@108] 数据改变一次！ 
+
+2022-11-21 15:28:46,306 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@108] 数据改变一次！ 
+
+2022-11-21 15:29:48,646 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:29:48,937 [1] INFO  [temp_robot_datarecord.Form1.initplc@71] PLC连接成功！ 
+
+2022-11-21 15:30:52,363 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:30:52,674 [1] INFO  [temp_robot_datarecord.Form1.initplc@71] PLC连接成功！ 
+
+2022-11-21 15:31:14,001 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@108] 数据改变一次！ 
+
+2022-11-21 15:34:38,012 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:34:38,359 [1] INFO  [temp_robot_datarecord.Form1.initplc@71] PLC连接成功！ 
+
+2022-11-21 15:35:49,876 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@109] 数据改变一次！ 
+
+2022-11-21 15:36:08,370 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@109] 数据改变一次！ 
+
+2022-11-21 15:36:21,832 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@109] 数据改变一次！ 
+
+2022-11-21 15:36:45,903 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@109] 数据改变一次！ 
+
+2022-11-21 15:37:01,536 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@109] 数据改变一次！ 
+
+2022-11-21 15:37:01,547 [1] INFO  [temp_robot_datarecord.Form1.timer1_Tick@139] 记录一次数据！ 
+
+2022-11-21 15:41:20,588 [1] INFO  [temp_robot_datarecord.Form1..ctor@58] 软件启动时间！ 
+
+2022-11-21 15:41:20,769 [1] INFO  [temp_robot_datarecord.Form1.initplc@71] PLC连接成功！ 
+

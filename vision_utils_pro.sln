@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision_Utilsplus_test", "Vision_Utlis_test\Vision_Utilsplus_test.csproj", "{4EAA7316-A89E-4560-9089-E4E8AB3951CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision_Utlisplus", "Vision_Utlisplus\Vision_Utlisplus.csproj", "{DB8F60B5-CFC1-45BD-B2DA-07743C74C0B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAA7316-A89E-4560-9089-E4E8AB3951CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAA7316-A89E-4560-9089-E4E8AB3951CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAA7316-A89E-4560-9089-E4E8AB3951CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAA7316-A89E-4560-9089-E4E8AB3951CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8F60B5-CFC1-45BD-B2DA-07743C74C0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8F60B5-CFC1-45BD-B2DA-07743C74C0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8F60B5-CFC1-45BD-B2DA-07743C74C0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8F60B5-CFC1-45BD-B2DA-07743C74C0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EFE9848-78C6-4635-ABEC-FE96A89FEFF8}
+	EndGlobalSection
+EndGlobal

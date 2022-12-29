@@ -1,0 +1,21 @@
+
+********************************************************
+ --[ERROR]  [2022-11-23 10:20:15,766]
+-- [errlog]
+-- [文件]:E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\Form1.cs--第91行
+-- [详细]:Couldn't establish the connection to 140.80.0.150.
+Message: 套接字操作尝试一个无法连接的主机。 140.80.0.150:102
+
+********************************************************
+ --[ERROR]  [2022-11-23 10:22:24,448]
+-- [errlog]
+-- [文件]:E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\Form1.cs--第91行
+-- [详细]:Couldn't establish the connection to 140.80.0.150.
+Message: 套接字操作尝试一个无法连接的主机。 140.80.0.150:102
+
+********************************************************
+ --[ERROR]  [2022-11-23 13:26:23,464]
+-- [errlog]
+-- [文件]:E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\Form1.cs--第91行
+-- [详细]:Couldn't establish the connection to 140.80.0.150.
+Message: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 140.80.0.150:102

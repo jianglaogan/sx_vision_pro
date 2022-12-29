@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlisplus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlisplus.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\bin\Debug\GH_Utlis.dll
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\bin\Debug\GH_Utlis.pdb
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlis.dll
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlis.pdb
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\GH_Utlisplus\bin\Debug\log4App.config
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\temp_robot_datarecord\bin\Debug\log4App.config
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\temp_robot_datarecord\bin\Debug\GH_Utlis.dll
+C:\Users\Administrator\Desktop\新建文件夹\temp_robot_datarecord\temp_robot_datarecord\bin\Debug\GH_Utlis.pdb
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Debug\log4App.config
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Debug\GH_Utlis.dll
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Debug\GH_Utlis.pdb
+E:\github\Do_Something\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlisplus.csproj.CoreCompileInputs.cache
+E:\github\Do_Something\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlisplus.csproj.CopyComplete
+E:\github\Do_Something\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlis.dll
+E:\github\Do_Something\temp_robot_datarecord\GH_Utlisplus\obj\Debug\GH_Utlis.pdb

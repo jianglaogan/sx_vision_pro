@@ -1,0 +1,13 @@
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Release\temp_robot_datarecord.exe.config
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Release\temp_robot_datarecord.exe
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Release\temp_robot_datarecord.pdb
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Release\GH_Utlis.dll
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\bin\Release\GH_Utlis.pdb
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.csprojAssemblyReference.cache
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.Form1.resources
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.Properties.Resources.resources
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.csproj.GenerateResource.cache
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.csproj.CoreCompileInputs.cache
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.csproj.CopyComplete
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.exe
+E:\github\Do_Something\temp_robot_datarecord\temp_robot_datarecord\obj\Release\temp_robot_datarecord.pdb

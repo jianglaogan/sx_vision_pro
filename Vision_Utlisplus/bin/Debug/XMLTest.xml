@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstruConnInformation>
+  <PLCConnections>
+    <PLC Name="PLC1">
+      <ip>127.0.0.1</ip>
+      <port>2001</port>
+    </PLC>
+  </PLCConnections>
+  <PLCSIGNALmessages>
+    <message Name="STR1">
+      <stepmsg>25;45;34;23;45</stepmsg>
+    </message>
+  </PLCSIGNALmessages>
+  <SqlSeverConnections>
+    <SqlSever Name="SQL1">
+      <ip>127.0.0.1</ip>
+      <port>2002</port>
+      <password>123456</password>
+    </SqlSever>
+    <SqlSever Name="SQL2">
+      <ip>127.0.0.1</ip>
+      <port>2003</port>
+      <password>654321</password>
+    </SqlSever>
+  </SqlSeverConnections>
+</InstruConnInformation>
